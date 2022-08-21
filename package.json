@@ -1,6 +1,6 @@
 {
   "name": "@kunalphaltankar/my-first-react-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My first react UI library",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,6 +19,7 @@
     "react": "^18.2.0",
     "rollup": "^2.78.1",
     "rollup-plugin-dts": "^4.2.2",
+    "rollup-plugin-postcss": "^4.0.2",
     "tslib": "^2.4.0",
     "typescript": "^4.7.4"
   },
