@@ -1,0 +1,1 @@
+This repository is created by following [this](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe)
